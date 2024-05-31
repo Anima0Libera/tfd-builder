@@ -1,8 +1,9 @@
-    "descendant": {
+{
+    "descendants": {
         "Bunny": {
-            "skill_1_cooldown": 50,
+            "skill_1_cooldown": 10,
             "skill_4_cooldown": 20,
-            "skill_1_Damage": 500,
+            "skill_1_Damage": 3.066,
             "skill_4_Damage": 800
         },
         "Blair": {
@@ -12,3 +13,4 @@
             "skill_4_Damage": 850
         }
     }
+}
