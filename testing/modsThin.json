@@ -1,3 +1,4 @@
+{
     "mods": {
         "Attribute Master": {
             "Cost": 16,
@@ -11,3 +12,4 @@
             "skillCDdown": 0.256
         }
     }
+}
